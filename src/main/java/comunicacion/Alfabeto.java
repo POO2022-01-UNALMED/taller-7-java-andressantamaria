@@ -13,7 +13,7 @@ public class Alfabeto extends Pictograma {
 	
 
 	@Override
-	String interpretacion() {
+	public String interpretacion() {
 		// TODO Auto-generated method stub
 		return this.interpretacion;
 	}
